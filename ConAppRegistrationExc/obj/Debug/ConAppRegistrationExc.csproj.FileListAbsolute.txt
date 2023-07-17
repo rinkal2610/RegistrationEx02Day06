@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\bin\Debug\ConAppRegistrationExc.exe.config
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\bin\Debug\ConAppRegistrationExc.exe
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\bin\Debug\ConAppRegistrationExc.pdb
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\obj\Debug\ConAppRegistrationExc.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\obj\Debug\ConAppRegistrationExc.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\obj\Debug\ConAppRegistrationExc.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\obj\Debug\ConAppRegistrationExc.exe
+C:\DotNetTraining\Day6\ConAppRegistrationExc\ConAppRegistrationExc\obj\Debug\ConAppRegistrationExc.pdb
